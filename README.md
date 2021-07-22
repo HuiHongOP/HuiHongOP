@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋, My name is Hui Hong Zheng(Jason)
+Currently an undergraduate student
 
-<!--
-**HuiHongOP/HuiHongOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: C++, Python,
 
-Here are some ideas to get you started:
+Gender: Male
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning React,CSS,HTML,Javascript 
+- 📫 How to reach me: Huihong.zheng59@myhunter.cuny.edu 
+- 😄 Pronouns: "He" | "Him" 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HuiHongOP)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuiHongOP)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HuiHongOP&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HuiHongOP)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HuiHongOP)  
+
+![Profile views](https://gpvc.arturio.dev/HuiHongOP)  
