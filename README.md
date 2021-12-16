@@ -3,12 +3,10 @@ Currently an undergraduate student
 
 <img src="https://media.giphy.com/media/naSgH6R3RHNi8/source.gif" width="400" height="200">
 
-Skills: C++, Python,
+Skills: C++, Python, Swift
 
 Gender: Male
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning React,CSS,HTML,Javascript 
 - 📫 How to reach me: Huihong.zheng59@myhunter.cuny.edu 
 - 😄 Pronouns: "He" | "Him" 
 
