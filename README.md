@@ -1,7 +1,4 @@
 ### Hi there 👋, My name is Hui Hong Zheng(Jason)
-Currently an undergraduate student
-
-<img src="https://media.giphy.com/media/naSgH6R3RHNi8/source.gif" width="400" height="200">
 
 Skills: C++, Python, Swift
 
@@ -20,5 +17,3 @@ Gender: Male
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HuiHongOP)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HuiHongOP)  
-
-![Profile views](https://gpvc.arturio.dev/HuiHongOP)  
