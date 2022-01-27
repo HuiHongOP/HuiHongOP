@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Hui Hong Zheng(Jason)
 
-Skills: C++, Python, Swift
+Skills: C++, Python, Swift, Javascript
 
 Gender: Male
 
