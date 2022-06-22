@@ -14,6 +14,4 @@ Gender: Male
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HuiHongOP&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HuiHongOP)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HuiHongOP)  
